@@ -14,6 +14,8 @@ Project consists of three modules :
 
 # Home page for users where they can see latest news.
 ![](images/3.png)
+# News page
+![](images/4.png)
 
         
     
